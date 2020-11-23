@@ -38,7 +38,7 @@ Vous êtes libres d'en ajouter.
 | George R. R. Martin | Le Trône de fer              | fantasy          |
 | Hervé Bazin         | Vipère au poing              | autobiographie   |
 | Marie Cardinal      | Les mots pour le dire        | autobiographie   |
-| Giacomo Casanova    | Histoire de ma vie           | autobiographie   |
+| Giacomo Casanova    | Histoire  de ma vie          | autobiographie   |
 
 ## Remarques
 
